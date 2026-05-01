@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x   4 harikrishnanthangavelayutham  staff  128 Apr 20 12:51 [34m.[m[m
+drwxr-xr-x@ 29 harikrishnanthangavelayutham  staff  928 Apr 20 11:51 [34m..[m[m
+-rw-r--r--@  1 harikrishnanthangavelayutham  staff    0 Apr 20 12:51 output_cmd.txt
+-rw-r--r--@  1 harikrishnanthangavelayutham  staff  129 Apr 20 12:51 sub_Process.py

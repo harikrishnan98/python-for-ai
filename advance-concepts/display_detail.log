@@ -1,0 +1,14 @@
+INFO:root:Runs with args: ('Hari', '28', '12112')
+INFO:root:Runs with args: ('Hank', '29', '12112')
+INFO:root:Runs with args: ('Hank', '29', '12112')
+INFO:root:THis is for testing
+DEBUG:decorator-sample:THis is a test debugger log
+INFO:root:Runs with args: ()
+INFO:root:Runs with args: ()
+INFO:root:Runs with args: ()
+Runs with args: ('WICK', '29', '098')
+Runs with args: ('WICK', '29', '098')
+Runs with args: ('WICK', '29', '098')
+INFO:root:Runs with args: ('WICK', '29', '098')
+INFO:root:Runs with args: ('WICK', '29', '098')
+Runs with args: ('WICK', '29', '098')
